@@ -1,0 +1,2 @@
+# Telecom Network and Customers Experience Analytics
+End-to-end telecom data analytics project focused on analyzing customer usage, network performance, complaints, billing behavior, and churn risk using **Excel, SQL, Python, and Tableau**. Cleaned and transformed data, developed analytical SQL queries and customer risk indicators, and created interactive dashboards to generate insights for network improvement and customer retention.
